@@ -19,5 +19,10 @@
 			<version>4.13</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>edu.eci.cvds.tdd</groupId>
+			<artifactId>aerodescuentos</artifactId>
+			<version>1.0</version>
+		</dependency>
   </dependencies>
 </project>
