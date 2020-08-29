@@ -1,4 +1,4 @@
-target/
-.settings/
-.classpath
-.project
+ClasesEquivalencia/.classpath
+ClasesEquivalencia/.project
+ClasesEquivalencia/target
+ClasesEquivalencia/.settings
