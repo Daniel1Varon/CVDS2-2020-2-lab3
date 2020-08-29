@@ -46,7 +46,7 @@ Casos:
 3.	calculoTarifa(12, -2, 12)			***NUMERO DE DIAS NEGATIVO***
 4.	calculoTarifa(10, 0, 12)			***tarifa 9.5 (descuento menor de edad)***
 5.	calculoTarifa(20, 21, 0)			***tarifa 16 (descuento más de 20 días y menor de edad)***
-6.	calculoTarifa(20, 12, 66)			***tarifa 18.4 (descuento tercera edad)***
+6.	calculoTarifa(8, 12, 66)			***tarifa 7.36 (descuento tercera edad)***
 7.	calculoTarifa(40, 20, 151) 			***EDAD INVALIDA***
 8.	calculoTarifa(40, 20, -1) 			***EDAD INVALIDA***
 

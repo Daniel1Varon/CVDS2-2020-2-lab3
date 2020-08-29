@@ -23,7 +23,7 @@
 			<groupId>edu.eci.cvds</groupId>
 			<artifactId>aerodescuentos</artifactId>
 			<version>1.0.0</version>
-			<scope>compile</scope>
+			<scope>jar</scope>
 		</dependency>
   </dependencies>
 </project>
